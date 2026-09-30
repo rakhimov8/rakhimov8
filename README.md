@@ -96,7 +96,7 @@
 | **Project Two** | Short one-line description here | `React` `NestJS` |
 | **Project Three** | Short one-line description here | `Python` `Docker` |
 
------
+---
 
 ## 🤝 Connect with me
 
