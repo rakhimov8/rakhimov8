@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-----
+----------
 
 ## 🛠 Languages and Tools
 
