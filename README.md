@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux"/>
 </p>
 
-------------
+---
 
 ## 📌 Featured Projects
 
